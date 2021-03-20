@@ -16,6 +16,7 @@ public class AuthPage {
         password.sendKeys("admin");
         checkboxRememberMe.click();
         submitButton.click();
+        driver.quit();
 
     }
 }

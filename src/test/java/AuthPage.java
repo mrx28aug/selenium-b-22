@@ -18,5 +18,6 @@ public class AuthPage {
         submitButton.click();
         driver.quit();
 
+
     }
 }
